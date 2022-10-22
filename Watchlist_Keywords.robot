@@ -23,7 +23,7 @@ Delete From Watch-List
      Wait And Input Text            ${SIGNIN_EMAIL}         ${username}
      Wait And Input Text            ${SIGNIN_PASSWORD}      ${password}
      Wait And CLick Element         ${SIGNIN_USER_BNT}
-     Wait And CLick Element         ${WATCHLIST_TOP_BNT}
+     Click Link                     ${WATCHLIST_TOP_BNT}
      Wait And CLick Element         ${WATCHLIST_REMOVE}
      Reload Page
      Page Should Contain            Your Watchlist is empty

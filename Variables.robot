@@ -16,7 +16,7 @@ ${SIGNIN_USER_BNT}          id:signInSubmit
 ${SIGNIN_EMAIL}             id:ap_email
 ${SIGNIN_PASSWORD}          id:ap_password
 ${CREAT_IMDB_BNT}           id:signInSubmit
-${WATCHLIST_TOP_BNT}        xpath://*[@id="imdbHeader"]/div[2]/div[4]/a
+${WATCHLIST_TOP_BNT}        Watchlist
 ${ADD_TO_WATCHLIST}         class:ipc-btn__text
 ${WATCHLIST_REMOVE}         xpath://*[@id="page-1"]/div/div/div[1]/div
 ${USER_EMAIl}               ${EMPTY}

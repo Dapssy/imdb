@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/imdb_InterviewTask.iml" filepath="$PROJECT_DIR$/.idea/imdb_InterviewTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/imdb_Interview_Task.iml" filepath="$PROJECT_DIR$/.idea/imdb_Interview_Task.iml" />
     </modules>
   </component>
 </project>
