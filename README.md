@@ -1,4 +1,3 @@
-# imdb_InterviewTask
 To run test do the following
 Open Command prompt and install the following (Install Robotframework by using 'pip install robotframework', 'pip install selenuimlibrary') 
 Install IDE of your choice (Preferably Pycharm)
